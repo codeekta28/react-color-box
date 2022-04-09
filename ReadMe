@@ -1,0 +1,8 @@
+
+Issues
+1."abhe jo mujhe issue aa rha he wo ye he ki suppose me state se color decide kru from color box toh sabka original color same hoga initially i solved this problem mne state ke andar hee function call kr diya toh each time new color"
+
+2."mne direct number of boxes likh diye the but looping complicated ho jate he react me agar array na ho bcoz for loop bahut complicatidly use hota he so i created empty array of length jitne mujhe boxes chahiye the"
+
+3.Click krne pr purana color na aaye iska logic samjh nhe aa rha he checked on colt solution he used do while loop he compare newcolor to state color agar same he toh firse karo jab tak new color different nhe aa jata jese hee different aaya loop se bahar and u can setstate
+

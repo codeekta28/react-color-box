@@ -1,0 +1,8 @@
+.ColorBox{
+    border: 2px solid blue;
+    width:19%;
+    height:18vh
+}
+.ColorBox:hover{
+    cursor: pointer;
+}
